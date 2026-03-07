@@ -1,6 +1,6 @@
 # PUT versus PATCH
 
-This is a companion repository to go with my blog post, PUT versus PATCH. The API is far from perfect, but hopefully it's enough to illusrate the point!
+This is a companion repository to go with my blog post, [PUT versus PATCH](https://barker.codes/blog/put-versus-patch/). The API is far from perfect, but hopefully it's enough to illusrate the point!
 
 ## Getting started
 
