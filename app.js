@@ -61,7 +61,7 @@ app.patch("/books/:id", (req, res) => {
 
 	// Update the book.
 	updateBook.run(updates);
-	book = findBook.get({ id: req.params.id });
+	book = findBook.get({ id: updates.id });
 	res.status(200).json(book);
 });
 
